@@ -28,7 +28,7 @@ scaledRate = rate * BufRateScale.kr(bufnum);  player = PlayBuf.ar(1, bufnum,scal
 
 y = Synth(\playBufMonoLoop, [\bufnum, a]);
 
-y.set(\vol, 0);
+y.set(\vol, 0); //modifica el volumen rango 0..1
 y.set(\vol, 1);
 y.set(\vol, 4);
 

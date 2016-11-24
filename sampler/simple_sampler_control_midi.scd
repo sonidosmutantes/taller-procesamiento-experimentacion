@@ -27,3 +27,15 @@ MIDIIn.control = {arg src, chan, num, val;
 }
 
 MIDIIn.connectAll;
+
+/*
+//Mostrar MIDI input (controls)
+MIDIIn.control = {arg src, chan, num, val;
+	[chan,num,val].postln;
+};
+
+//Mostrar nota + velocity
+MIDIFunc.noteOn({ |veloc, num, chan, src|
+	( "New note received " + num + " with vel "+veloc ).postln;
+});
+*/
