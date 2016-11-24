@@ -30,7 +30,7 @@ Conectar y en SC: MIDIIn.connectAll;
 
 ### OSC
 
-Bajar http://charlie-roberts.com/Control/ o http://hexler.net/software/touchosc (Android/iOS) 
+Bajar http://charlie-roberts.com/Control/ (free software) o http://hexler.net/software/touchosc para Android/iOS e instalar en el celular/tablet. 
 
-Configurar http://[IP]:[PORT] de la máquina que corra SuperCollider
+Configurar http://[IP]:[PORT] de la máquina que corra SuperCollider.
 
