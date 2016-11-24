@@ -4,10 +4,9 @@
 
 s.boot;
 
-// In windows escape with \\
-~sample_a_path = "";
-a = Buffer.read(s, ~sample_a_path);
-a = Buffer.read(s, "/Users/hordia/Documents/vmshared/samples/1194_sample1.wav"); // tabla
+~sample_path = ""; // Ejemplo: "/Users/.../Documents/samples/archivo.wav"
+a = Buffer.read(s, ~sample_path);
+//En windows usar \\ por cada \ del path
 //a.free;
 
 //////////////////////////////////////////////////////////
@@ -34,3 +33,5 @@ y.set(\vol, 1);
 y.set(\vol, 4);
 
 y.free;
+
+s.quit;
