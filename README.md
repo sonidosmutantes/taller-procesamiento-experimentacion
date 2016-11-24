@@ -1,8 +1,14 @@
 # Taller de procesamiento de audio
 
-## Supercollider
+# Supercollider
 
 Instalar http://supercollider.github.io/ en computadora con Windows, MacOS, Linux (raspberry py incluido)
+
+Ver ejemplos .scd en /sampler, /controladores, etc
+
+# Controladores
+
+Ver ejemplos .scd en /controladores
 
 ## Controladores MIDI
 
