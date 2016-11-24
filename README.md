@@ -4,11 +4,16 @@ Instalar http://supercollider.github.io/ en computadora con Windows, MacOS, Linu
 
 Ver ejemplos .scd en /sampler, /controladores, etc
 
+* Servidor
+* Buffer
+* Synths
+* [Controles MIDI/OSC]
+
 # Controladores
 
 Ver ejemplos .scd en /controladores
 
-### Controladores MIDI
+### MIDI
 
 Conectar y en SC: MIDIIn.connectAll;
 
