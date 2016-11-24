@@ -1,3 +1,5 @@
+s.boot;
+
 // modulate a sine frequency and a noise amplitude with another sine
 // whose frequency depends on the horizontal mouse pointer position
 {
