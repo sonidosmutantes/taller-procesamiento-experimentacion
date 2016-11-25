@@ -9,7 +9,7 @@
 * Ventajas del Software Libre
 * Intro a MIR (Music Information Retrieval)
 
-# Supercollider
+## Supercollider
 
 Instalar http://supercollider.github.io/ en computadora con Windows, MacOS, Linux (raspberry py incluido)
 
@@ -20,17 +20,39 @@ Ver ejemplos .scd en /sampler, /controladores, etc
 * Synths
 * [Controles MIDI/OSC]
 
-# Controladores
+## Controladores
 
 Ver ejemplos .scd en /controladores
 
-### MIDI
+Mapeos: linlin, linexp
+
+#### MIDI
 
 Conectar y en SC: MIDIIn.connectAll;
 
-### OSC
+#### OSC
 
 Bajar http://charlie-roberts.com/Control/ (free software) o http://hexler.net/software/touchosc para Android/iOS e instalar en el celular/tablet. 
 
 Configurar http://[IP]:[PORT] de la máquina que corra SuperCollider.
+
+
+# Resumen Día 2
+
+* Synth con adsr, osciladores, LFO y noise
+* OSC en una red local (ip + puerto)
+  * Ejemplos en Supercollider
+* Análisis de samples con MIR usando python notebook
+  * Descriptores (BPM, HFC, dissonance, etc)
+  * Clustering (agrupamiento) y gráficos x,y
+  * Máquina de estados (sonora)
+* Performances: Ideas para manejar la colaboración y bigdata en tiempos de internet
+* APIcultor: Aplicaciones musicales con redpanal.org, MIR y API Rest
+    * https://github.com/sonidosmutantes/apicultor
+
+## MIR
+
+Descriptores: http://essentia.upf.edu/documentation/algorithms_reference.html
+
+Ejemplo MIR en Python: taller-procesamiento/mir/extractTempo.py
 
