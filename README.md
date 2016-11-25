@@ -44,7 +44,8 @@ Configurar http://[IP]:[PORT] de la máquina que corra SuperCollider.
   * Ejemplos en Supercollider
 * Análisis de samples con MIR usando python notebook
   * Descriptores (BPM, HFC, dissonance, etc)
-  * Clustering (agrupamiento) y gráficos x,y
+  * Valores estadísticos (mean, var, etc) vs frames
+  * Clustering (agrupamiento) y gráficos x,y
   * Máquina de estados (sonora)
 * Performances: Ideas para manejar la colaboración y bigdata en tiempos de internet
 * APIcultor: Aplicaciones musicales con redpanal.org, MIR y API Rest
