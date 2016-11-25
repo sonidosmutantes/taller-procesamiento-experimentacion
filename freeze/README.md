@@ -10,7 +10,7 @@
 
 ![](http://www.inagrm.com/sites/default/files/u4/Freeze2.jpg)
 
-* Electro Harmonic 
+* Electro Harmonix
 
 ![](http://thumbs.ebaystatic.com/images/g/F8oAAOSwUuFWw92s/s-l200.jpg)
 
