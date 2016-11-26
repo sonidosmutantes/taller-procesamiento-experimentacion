@@ -1,11 +1,16 @@
 @ linux
 
+# Para ipython notebook (jupyter) en python3
+# sudo pip3 install jupyter
+
+
+# PYO corre con Python 2
+sudo pip3 install -r requirements.txt
 sudo apt-get install libsndfile1-dev portaudio19-dev libportmidi-dev liblo-dev
+sudo apt-get install python-pyo
 
-sudo pip install -r requirements.txt
-
-
-wget http://ajaxsoundstudio.com/downloads/pyo_0.8.0-src.tar.bz2
-sudo python setup.py install
-
+# opción
+#wget http://ajaxsoundstudio.com/downloads/pyo_0.8.0-src.tar.bz2
+#sudo python setup.py install
+#sudo scripts/compile_linux_withJack.sh # editar para que use python3 o usar virtualenv
 
