@@ -67,7 +67,8 @@ Ejemplo MIR en Python: taller-procesamiento/mir/extractTempo.py
 * Manejo de fases ("lock" on/off) 
 * Ejemplos en puredata
 * Ejemplos en supercollider
-* Ejemplos en python usando lib pyo para DSP (arq similar a supercollider)
+* Ejemplos en python usando lib pyo para DSP
+ * Síntesis en tiempo real, estilo supercollider
 * Usos en performances
 
 Ver python notebooks (jupyter) en /freeze/python (teoría + implementación + ejemplos)
