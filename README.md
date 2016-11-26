@@ -57,3 +57,19 @@ Descriptores: http://essentia.upf.edu/documentation/algorithms_reference.html
 
 Ejemplo MIR en Python: taller-procesamiento/mir/extractTempo.py
 
+# Resumen Día 3
+
+* Técnicas para manipular sonidos obtenidos de formas pseudo-aleatorias
+* Efecto freeze y sus variantes
+ * Phase vocoder
+ * Reverb
+ * Síntesis granular
+* Manejo de fases ("lock" on/off) 
+* Ejemplos en puredata
+* Ejemplos en supercollider
+* Ejemplos en python usando lib pyo para DSP (arq similar a supercollider)
+* Usos en performances
+
+Ver python notebooks (jupyter) en /freeze/python (teoría + implementación + ejemplos)
+
+https://github.com/sonidosmutantes/taller-procesamiento/blob/master/freeze/README.md
