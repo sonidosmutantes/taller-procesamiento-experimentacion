@@ -36,4 +36,4 @@ Requirements
 - Pure Data
 - Python 
   * librosa
-  * pyo
+  * pyo (http://ajaxsoundstudio.com/software/pyo/)
