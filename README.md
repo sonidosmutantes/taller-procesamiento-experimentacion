@@ -36,6 +36,8 @@ Bajar http://charlie-roberts.com/Control/ (free software) o http://hexler.net/so
 
 Configurar http://[IP]:[PORT] de la máquina que corra SuperCollider.
 
+Opción: http://osc.ammd.net/ (multiplatform desktop server application with built-in client interface, mouse & multitouch interfaces compatible with Chrome 49 or later)
+
 
 # Resumen Día 2
 
