@@ -1,4 +1,4 @@
-Contenido:
+Contenido
 
 * Efectos digitales
 * Introducción a MIR (Music Information Retrieval)
