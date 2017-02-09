@@ -75,6 +75,6 @@ Ejemplo MIR en Python: taller-procesamiento/mir/extractTempo.py
 
 Ver python notebooks (jupyter) en /freeze/python (teoría + implementación + ejemplos)
 
-[https://github.com/sonidosmutantes/taller-procesamiento/blob/master/freeze/README.md](https://github.com/sonidosmutantes/taller-procesamiento/blob/master/freeze/README.md)
+[Efecto freeze](freeze/README.md) (detalle)
 
 Cierre con performance sonora integrando toda la técnica y conceptos del taller: [http://redpanal.org/a/banda-de-mutantes-cierre-taller/](http://redpanal.org/a/banda-de-mutantes-cierre-taller/)
