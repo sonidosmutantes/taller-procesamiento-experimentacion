@@ -1,3 +1,11 @@
+Contenido:
+* Efectos digitales
+* Introducción a MIR (Music Information Retrieval)
+* Ejemplos en SuperCollider y Python
+* Controladores MIDI y OSC
+* Livecoding
+
+
 # Resumen Día 1
 * Audio digital
 * Diferentes tipos de controladores, DIY, sensores, celulares/tablets y aplicaciones musicales
