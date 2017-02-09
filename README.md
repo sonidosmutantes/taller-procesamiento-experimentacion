@@ -11,7 +11,7 @@
 
 ## Supercollider
 
-Instalar http://supercollider.github.io/ en computadora con Windows, MacOS, Linux (raspberry py incluido)
+Instalar [http://supercollider.github.io/](http://supercollider.github.io/) en computadora con Windows, MacOS, Linux (raspberry py incluido)
 
 Ver ejemplos .scd en /sampler, /controladores, etc
 
@@ -32,11 +32,11 @@ Conectar y en SC: MIDIIn.connectAll;
 
 #### OSC
 
-Bajar http://charlie-roberts.com/Control/ (free software) o http://hexler.net/software/touchosc para Android/iOS e instalar en el celular/tablet. 
+Bajar [http://charlie-roberts.com/Control/](http://charlie-roberts.com/Control/) (free software) o [http://hexler.net/software/touchosc](http://hexler.net/software/touchosc) para Android/iOS e instalar en el celular/tablet. 
 
 Configurar http://[IP]:[PORT] de la máquina que corra SuperCollider.
 
-Opción: http://osc.ammd.net/ (multiplatform desktop server application with built-in client interface, mouse & multitouch interfaces compatible with Chrome 49 or later)
+Opción: [http://osc.ammd.net/](http://osc.ammd.net/) (multiplatform desktop server application with built-in client interface, mouse & multitouch interfaces compatible with Chrome 49 or later)
 
 
 # Resumen Día 2
@@ -50,12 +50,12 @@ Opción: http://osc.ammd.net/ (multiplatform desktop server application with bui
   * Clustering (agrupamiento) y gráficos x,y
   * Máquina de estados (sonora)
 * Performances: Ideas para manejar la colaboración y bigdata en tiempos de internet
-* APIcultor: Aplicaciones musicales con redpanal.org, MIR y API Rest
-    * https://github.com/sonidosmutantes/apicultor
-
+* [APIcultor](https://sonidosmutantes.github.io/apicultor/): Aplicaciones musicales con redpanal.org, MIR y API Rest
+    * [https://sonidosmutantes.github.io/apicultor/](https://sonidosmutantes.github.io/apicultor/)
+    
 ## MIR
 
-Descriptores: http://essentia.upf.edu/documentation/algorithms_reference.html
+Descriptores: [http://essentia.upf.edu/documentation/algorithms_reference.html]( http://essentia.upf.edu/documentation/algorithms_reference.html)
 
 Ejemplo MIR en Python: taller-procesamiento/mir/extractTempo.py
 
@@ -75,7 +75,6 @@ Ejemplo MIR en Python: taller-procesamiento/mir/extractTempo.py
 
 Ver python notebooks (jupyter) en /freeze/python (teoría + implementación + ejemplos)
 
-https://github.com/sonidosmutantes/taller-procesamiento/blob/master/freeze/README.md
+[https://github.com/sonidosmutantes/taller-procesamiento/blob/master/freeze/README.md](https://github.com/sonidosmutantes/taller-procesamiento/blob/master/freeze/README.md)
 
-
-Cierre con performance sonora integrando toda la técnica y conceptos del taller: http://redpanal.org/a/banda-de-mutantes-cierre-taller/
+Cierre con performance sonora integrando toda la técnica y conceptos del taller: [http://redpanal.org/a/banda-de-mutantes-cierre-taller/](http://redpanal.org/a/banda-de-mutantes-cierre-taller/)
