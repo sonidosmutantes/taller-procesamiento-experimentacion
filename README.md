@@ -1,4 +1,5 @@
 Contenido:
+
 * Efectos digitales
 * Introducción a MIR (Music Information Retrieval)
 * Ejemplos en SuperCollider y Python
